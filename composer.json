@@ -1,0 +1,22 @@
+{
+    "name": "mohammadintsar/unique-value-arr",
+    "description": "Get unique value from array",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohammadintsar\\UniqueValueArr\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "authors": [
+        {
+            "name": "Mohammad Intsar",
+            "email": "mmohdintsar091@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
